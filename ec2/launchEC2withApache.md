@@ -14,7 +14,7 @@ cd /var/www/html
 ```bash
 vim index.html
 ```
-####press 'i' to insert mode 
+#### press 'i' to insert mode 
 
 #### Add your code 
 ```bash
